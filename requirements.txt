@@ -7,4 +7,5 @@ catboost
 xgboost
 dataclasses-json
 dataclasses
+dill
 # -e .
