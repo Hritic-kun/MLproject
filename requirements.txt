@@ -8,4 +8,5 @@ xgboost
 dataclasses-json
 dataclasses
 dill
+flask
 # -e .
